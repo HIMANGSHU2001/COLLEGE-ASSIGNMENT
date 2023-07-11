@@ -1,0 +1,8 @@
+Enter a username
+user1:x:1001:1001:USER1,,,:/home/user1:/bin/bash
+Username: user1
+User ID: id
+Group ID: 1001
+User ID Info: USER1,,,
+Home Directory: /home/user1
+Login Shell: /bin/bash
